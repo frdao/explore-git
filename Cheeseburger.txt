@@ -4,3 +4,4 @@
 - Tomato
 - Burger sauce
 - Cheddar cheese
+- Ketchup
